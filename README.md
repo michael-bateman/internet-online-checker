@@ -1,4 +1,4 @@
-# internet-online-checker
+# Internet Online Checker
 
 <h2>About</h2>
 <p>Simple AppleScript that will check if you are online or not by using the <q>ping</q> command.</p>
